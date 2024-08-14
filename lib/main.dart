@@ -63,7 +63,7 @@ class MyHomePage extends StatelessWidget {
                     style: TextStyle(color: Colors.black, fontSize: 20),
                   ),
                   TextSpan(
-                    text: 'Flutter',
+                    text: 'Flutter!',
                     style: TextStyle(color: Colors.blue, fontSize: 20),
                   ),
                 ],
